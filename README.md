@@ -1,6 +1,6 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-373737?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-373737?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/) 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/diegrpdev) 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/diegrpdev/) 
 
 <h1 align="center">Hi, my name is <b>Diego</b>! 🤙</h1>
 
